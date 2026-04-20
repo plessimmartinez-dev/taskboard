@@ -73,7 +73,7 @@
             <button type="submit" class="btn btn-primary mb-3">Entrar</button>
         </form>
         
-        <a href="#" class="enlace-registro">¿No tienes cuenta? Regístrate aquí</a>
+        <a href="registro.php" class="enlace-registro">¿No tienes cuenta? Regístrate aquí</a>
     </div>
 
 </body>
